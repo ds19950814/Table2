@@ -1,0 +1,24 @@
+table,th,td {
+  border: 2px solid white;
+  border-collapse: collapse;
+  background: #0f1c33;
+  padding: 20px;
+  text-align: left;
+  width: 40%;
+  font-family: 'Gowun Batang', serif;
+  color: white;
+  table-layout: fixed;
+  font-size: 20px;
+}
+
+#Row1 {
+  background: #541435;
+}
+#Row2 {
+   background: #d14d91;
+
+}
+
+#Row3 {
+  background: #7d2a55;
+}
